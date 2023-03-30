@@ -120,3 +120,7 @@ public class Calculator {
         return  facto;
     }
 }
+
+
+//sudo chmod 666 /var/run/docker.sock
+
