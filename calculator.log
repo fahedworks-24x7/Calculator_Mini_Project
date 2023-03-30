@@ -95,3 +95,27 @@
 2023-03-30 19:34:31.744 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 190.0
 2023-03-30 19:34:31.744 [main] INFO  calculator.Calculator - [SQ ROOT] - 400.0
 2023-03-30 19:34:31.744 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 20.0
+2023-03-30 19:50:27.153 [main] INFO  calculator.Calculator - [SQ ROOT] - 0.25
+2023-03-30 19:50:27.155 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 0.5
+2023-03-30 19:50:27.155 [main] INFO  calculator.Calculator - [SQ ROOT] - 9.0
+2023-03-30 19:50:27.155 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 3.0
+2023-03-30 19:50:27.155 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-30 19:50:27.156 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-30 19:50:27.156 [main] INFO  calculator.Calculator - [NATURAL LOG] - 1.0
+2023-03-30 19:50:27.156 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-30 19:50:27.156 [main] INFO  calculator.Calculator - [POWER - 1.0 RAISED TO] 100000.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [RESULT - POWER] - 1.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [POWER - 6.0 RAISED TO] 5.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [RESULT - POWER] - 7776.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [POWER - 5.0 RAISED TO] 3.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [RESULT - POWER] - 125.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [POWER - 10.0 RAISED TO] 4.0
+2023-03-30 19:50:27.157 [main] INFO  calculator.Calculator - [RESULT - POWER] - 10000.0
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [NATURAL LOG] - 0.6739
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - -0.39467354702996565
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.0
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.6931471805599453
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [SQ ROOT] - 36100.0
+2023-03-30 19:50:27.158 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 190.0
+2023-03-30 19:50:27.159 [main] INFO  calculator.Calculator - [SQ ROOT] - 400.0
+2023-03-30 19:50:27.159 [main] INFO  calculator.Calculator - [RESULT - SQ ROOT] - 20.0
